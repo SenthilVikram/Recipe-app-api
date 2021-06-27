@@ -1,5 +1,5 @@
 # recipe-app-api
-recipe app project source code 
+Recipe app project source code 
 
 Get started with 
 
